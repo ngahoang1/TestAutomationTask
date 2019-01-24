@@ -16,7 +16,8 @@ And Developer Tools also help in some cases.
 
 ## How to use
 #### Requisites: 
-Java & Maven are installed in your machine. (Java >= 1.8 and Maven >= 3 )
+* Run this program with Windowns
+* Java & Maven are installed in your machine. (Java >= 1.8 and Maven >= 3 )
 
 #### Steps:
 * Dowload source code from git hub (link: https://github.com/ngahoang1/TestAutomationTask ) to your local machine and store at 'my_folder'

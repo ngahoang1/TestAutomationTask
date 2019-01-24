@@ -2,6 +2,7 @@
 ================================================================
 ## Scope
 * This program is used to test the website http://the-internet.herokuapp.com with scenarios that are specified in the task sheet 'Test Automation Engineer | Candidate Task'.
+* Tests aim to two browsers: Firefox and Chrome
 * There is one doubt in scenarior 1 of the task sheet, which is the string 'You logged into a secure area is present'. The string presents in current website is 'You logged into a secure area!'. However, the test currently follows the content in task sheet so this testcase get fail now.
 
 ## Technology
